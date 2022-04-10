@@ -1,0 +1,13 @@
+.todoItem{
+    margin-top: 10px;
+}
+
+.deleteItemButton{
+    color: red;
+    float: right;
+}
+
+.ItemsList{
+    width: 300px;
+}
+
